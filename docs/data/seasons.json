@@ -1,0 +1,392 @@
+[
+  {
+    "season": 2026,
+    "n": 888,
+    "finished": 390,
+    "scheduled": 498,
+    "reg": 888,
+    "post": 0,
+    "era": "2024-cfp12",
+    "flags": {
+      "playoff_4": false,
+      "playoff_12": true,
+      "pandemic_2020": false,
+      "pre_playoff": false
+    }
+  },
+  {
+    "season": 2025,
+    "n": 934,
+    "finished": 934,
+    "scheduled": 0,
+    "reg": 888,
+    "post": 46,
+    "era": "2024-cfp12",
+    "flags": {
+      "playoff_4": false,
+      "playoff_12": true,
+      "pandemic_2020": false,
+      "pre_playoff": false
+    }
+  },
+  {
+    "season": 2024,
+    "n": 920,
+    "finished": 919,
+    "scheduled": 1,
+    "reg": 874,
+    "post": 46,
+    "era": "2024-cfp12",
+    "flags": {
+      "playoff_4": false,
+      "playoff_12": true,
+      "pandemic_2020": false,
+      "pre_playoff": false
+    }
+  },
+  {
+    "season": 2023,
+    "n": 910,
+    "finished": 910,
+    "scheduled": 0,
+    "reg": 868,
+    "post": 42,
+    "era": "2014-cfp4",
+    "flags": {
+      "playoff_4": true,
+      "playoff_12": false,
+      "pandemic_2020": false,
+      "pre_playoff": false
+    }
+  },
+  {
+    "season": 2022,
+    "n": 854,
+    "finished": 854,
+    "scheduled": 0,
+    "reg": 854,
+    "post": 0,
+    "era": "2014-cfp4",
+    "flags": {
+      "playoff_4": true,
+      "playoff_12": false,
+      "pandemic_2020": false,
+      "pre_playoff": false
+    }
+  },
+  {
+    "season": 2021,
+    "n": 849,
+    "finished": 849,
+    "scheduled": 0,
+    "reg": 849,
+    "post": 0,
+    "era": "2014-cfp4",
+    "flags": {
+      "playoff_4": true,
+      "playoff_12": false,
+      "pandemic_2020": false,
+      "pre_playoff": false
+    }
+  },
+  {
+    "season": 2020,
+    "n": 542,
+    "finished": 542,
+    "scheduled": 0,
+    "reg": 542,
+    "post": 0,
+    "era": "2020-pandemic",
+    "flags": {
+      "playoff_4": true,
+      "playoff_12": false,
+      "pandemic_2020": true,
+      "pre_playoff": false
+    }
+  },
+  {
+    "season": 2019,
+    "n": 848,
+    "finished": 848,
+    "scheduled": 0,
+    "reg": 848,
+    "post": 0,
+    "era": "2014-cfp4",
+    "flags": {
+      "playoff_4": true,
+      "playoff_12": false,
+      "pandemic_2020": false,
+      "pre_playoff": false
+    }
+  },
+  {
+    "season": 2018,
+    "n": 845,
+    "finished": 845,
+    "scheduled": 0,
+    "reg": 845,
+    "post": 0,
+    "era": "2014-cfp4",
+    "flags": {
+      "playoff_4": true,
+      "playoff_12": false,
+      "pandemic_2020": false,
+      "pre_playoff": false
+    }
+  },
+  {
+    "season": 2017,
+    "n": 834,
+    "finished": 834,
+    "scheduled": 0,
+    "reg": 834,
+    "post": 0,
+    "era": "2014-cfp4",
+    "flags": {
+      "playoff_4": true,
+      "playoff_12": false,
+      "pandemic_2020": false,
+      "pre_playoff": false
+    }
+  },
+  {
+    "season": 2016,
+    "n": 832,
+    "finished": 832,
+    "scheduled": 0,
+    "reg": 832,
+    "post": 0,
+    "era": "2014-cfp4",
+    "flags": {
+      "playoff_4": true,
+      "playoff_12": false,
+      "pandemic_2020": false,
+      "pre_playoff": false
+    }
+  },
+  {
+    "season": 2015,
+    "n": 829,
+    "finished": 829,
+    "scheduled": 0,
+    "reg": 829,
+    "post": 0,
+    "era": "2014-cfp4",
+    "flags": {
+      "playoff_4": true,
+      "playoff_12": false,
+      "pandemic_2020": false,
+      "pre_playoff": false
+    }
+  },
+  {
+    "season": 2014,
+    "n": 829,
+    "finished": 829,
+    "scheduled": 0,
+    "reg": 829,
+    "post": 0,
+    "era": "2014-cfp4",
+    "flags": {
+      "playoff_4": true,
+      "playoff_12": false,
+      "pandemic_2020": false,
+      "pre_playoff": false
+    }
+  },
+  {
+    "season": 2013,
+    "n": 813,
+    "finished": 813,
+    "scheduled": 0,
+    "reg": 813,
+    "post": 0,
+    "era": "pre-playoff",
+    "flags": {
+      "playoff_4": false,
+      "playoff_12": false,
+      "pandemic_2020": false,
+      "pre_playoff": true
+    }
+  },
+  {
+    "season": 2012,
+    "n": 805,
+    "finished": 805,
+    "scheduled": 0,
+    "reg": 805,
+    "post": 0,
+    "era": "pre-playoff",
+    "flags": {
+      "playoff_4": false,
+      "playoff_12": false,
+      "pandemic_2020": false,
+      "pre_playoff": true
+    }
+  },
+  {
+    "season": 2011,
+    "n": 777,
+    "finished": 777,
+    "scheduled": 0,
+    "reg": 777,
+    "post": 0,
+    "era": "pre-playoff",
+    "flags": {
+      "playoff_4": false,
+      "playoff_12": false,
+      "pandemic_2020": false,
+      "pre_playoff": true
+    }
+  },
+  {
+    "season": 2010,
+    "n": 773,
+    "finished": 773,
+    "scheduled": 0,
+    "reg": 773,
+    "post": 0,
+    "era": "pre-playoff",
+    "flags": {
+      "playoff_4": false,
+      "playoff_12": false,
+      "pandemic_2020": false,
+      "pre_playoff": true
+    }
+  },
+  {
+    "season": 2009,
+    "n": 774,
+    "finished": 774,
+    "scheduled": 0,
+    "reg": 774,
+    "post": 0,
+    "era": "pre-playoff",
+    "flags": {
+      "playoff_4": false,
+      "playoff_12": false,
+      "pandemic_2020": false,
+      "pre_playoff": true
+    }
+  },
+  {
+    "season": 2008,
+    "n": 771,
+    "finished": 771,
+    "scheduled": 0,
+    "reg": 771,
+    "post": 0,
+    "era": "pre-playoff",
+    "flags": {
+      "playoff_4": false,
+      "playoff_12": false,
+      "pandemic_2020": false,
+      "pre_playoff": true
+    }
+  },
+  {
+    "season": 2007,
+    "n": 766,
+    "finished": 766,
+    "scheduled": 0,
+    "reg": 766,
+    "post": 0,
+    "era": "pre-playoff",
+    "flags": {
+      "playoff_4": false,
+      "playoff_12": false,
+      "pandemic_2020": false,
+      "pre_playoff": true
+    }
+  },
+  {
+    "season": 2006,
+    "n": 760,
+    "finished": 760,
+    "scheduled": 0,
+    "reg": 760,
+    "post": 0,
+    "era": "pre-playoff",
+    "flags": {
+      "playoff_4": false,
+      "playoff_12": false,
+      "pandemic_2020": false,
+      "pre_playoff": true
+    }
+  },
+  {
+    "season": 2005,
+    "n": 690,
+    "finished": 690,
+    "scheduled": 0,
+    "reg": 690,
+    "post": 0,
+    "era": "pre-playoff",
+    "flags": {
+      "playoff_4": false,
+      "playoff_12": false,
+      "pandemic_2020": false,
+      "pre_playoff": true
+    }
+  },
+  {
+    "season": 2004,
+    "n": 693,
+    "finished": 693,
+    "scheduled": 0,
+    "reg": 693,
+    "post": 0,
+    "era": "pre-playoff",
+    "flags": {
+      "playoff_4": false,
+      "playoff_12": false,
+      "pandemic_2020": false,
+      "pre_playoff": true
+    }
+  },
+  {
+    "season": 2003,
+    "n": 743,
+    "finished": 743,
+    "scheduled": 0,
+    "reg": 743,
+    "post": 0,
+    "era": "pre-playoff",
+    "flags": {
+      "playoff_4": false,
+      "playoff_12": false,
+      "pandemic_2020": false,
+      "pre_playoff": true
+    }
+  },
+  {
+    "season": 2002,
+    "n": 744,
+    "finished": 744,
+    "scheduled": 0,
+    "reg": 744,
+    "post": 0,
+    "era": "pre-playoff",
+    "flags": {
+      "playoff_4": false,
+      "playoff_12": false,
+      "pandemic_2020": false,
+      "pre_playoff": true
+    }
+  },
+  {
+    "season": 2001,
+    "n": 684,
+    "finished": 684,
+    "scheduled": 0,
+    "reg": 684,
+    "post": 0,
+    "era": "pre-playoff",
+    "flags": {
+      "playoff_4": false,
+      "playoff_12": false,
+      "pandemic_2020": false,
+      "pre_playoff": true
+    }
+  }
+]

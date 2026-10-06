@@ -1,0 +1,153 @@
+{
+  "kind": "c0_probe",
+  "registered": false,
+  "note": "Median book close on both-FBS finished games from LINE_ERA_FROM. Not a walk-forward, not a ledger slot, not imported from the NFL site.",
+  "n": 12038,
+  "n_decided": 11836,
+  "home_cover_rate": 0.4963,
+  "mae": 12.21,
+  "over_rate": 0.4903,
+  "n_totals": 11895,
+  "by_season": [
+    {
+      "season": 2006,
+      "n": 325,
+      "n_decided": 319,
+      "home_cover_rate": 0.5047,
+      "mae": 11.217
+    },
+    {
+      "season": 2007,
+      "n": 519,
+      "n_decided": 509,
+      "home_cover_rate": 0.5069,
+      "mae": 12.234
+    },
+    {
+      "season": 2008,
+      "n": 267,
+      "n_decided": 264,
+      "home_cover_rate": 0.4848,
+      "mae": 11.644
+    },
+    {
+      "season": 2009,
+      "n": 533,
+      "n_decided": 527,
+      "home_cover_rate": 0.4535,
+      "mae": 11.075
+    },
+    {
+      "season": 2010,
+      "n": 520,
+      "n_decided": 509,
+      "home_cover_rate": 0.5108,
+      "mae": 12.593
+    },
+    {
+      "season": 2011,
+      "n": 563,
+      "n_decided": 559,
+      "home_cover_rate": 0.5134,
+      "mae": 12.226
+    },
+    {
+      "season": 2012,
+      "n": 575,
+      "n_decided": 563,
+      "home_cover_rate": 0.5009,
+      "mae": 12.108
+    },
+    {
+      "season": 2013,
+      "n": 597,
+      "n_decided": 592,
+      "home_cover_rate": 0.5186,
+      "mae": 12.306
+    },
+    {
+      "season": 2014,
+      "n": 615,
+      "n_decided": 610,
+      "home_cover_rate": 0.4672,
+      "mae": 12.301
+    },
+    {
+      "season": 2015,
+      "n": 628,
+      "n_decided": 618,
+      "home_cover_rate": 0.4628,
+      "mae": 12.175
+    },
+    {
+      "season": 2016,
+      "n": 618,
+      "n_decided": 606,
+      "home_cover_rate": 0.4934,
+      "mae": 13.03
+    },
+    {
+      "season": 2017,
+      "n": 636,
+      "n_decided": 620,
+      "home_cover_rate": 0.4774,
+      "mae": 12.256
+    },
+    {
+      "season": 2018,
+      "n": 636,
+      "n_decided": 625,
+      "home_cover_rate": 0.4896,
+      "mae": 12.617
+    },
+    {
+      "season": 2019,
+      "n": 634,
+      "n_decided": 623,
+      "home_cover_rate": 0.5088,
+      "mae": 12.299
+    },
+    {
+      "season": 2020,
+      "n": 508,
+      "n_decided": 498,
+      "home_cover_rate": 0.494,
+      "mae": 12.906
+    },
+    {
+      "season": 2021,
+      "n": 732,
+      "n_decided": 722,
+      "home_cover_rate": 0.5152,
+      "mae": 12.552
+    },
+    {
+      "season": 2022,
+      "n": 734,
+      "n_decided": 722,
+      "home_cover_rate": 0.4972,
+      "mae": 12.035
+    },
+    {
+      "season": 2023,
+      "n": 792,
+      "n_decided": 777,
+      "home_cover_rate": 0.4942,
+      "mae": 12.122
+    },
+    {
+      "season": 2024,
+      "n": 798,
+      "n_decided": 781,
+      "home_cover_rate": 0.5045,
+      "mae": 12.068
+    },
+    {
+      "season": 2025,
+      "n": 808,
+      "n_decided": 792,
+      "home_cover_rate": 0.5152,
+      "mae": 11.823
+    }
+  ]
+}

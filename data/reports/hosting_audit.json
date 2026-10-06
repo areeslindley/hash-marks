@@ -1,0 +1,30 @@
+{
+  "stamped": "2026-10-06",
+  "source": "cfbfastR-data (CFBD-sourced)",
+  "terms": "https://collegefootballdata.com/terms",
+  "n_private_games": 20707,
+  "n_finished": 20208,
+  "pages_game_seasons": [
+    2025,
+    2026
+  ],
+  "forbidden": [
+    "docs/data/games.json",
+    "vendor CSV in git",
+    "raw API payloads on Pages"
+  ],
+  "allowed": [
+    "coverage aggregates",
+    "conference tree",
+    "year counts",
+    "holdout+live game rows"
+  ],
+  "c0": {
+    "registered": false,
+    "n": 12038,
+    "home_cover_rate": 0.4963,
+    "mae": 12.21
+  },
+  "weather": false,
+  "pbp_ingested": false
+}

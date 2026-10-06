@@ -1,0 +1,11 @@
+[project]
+name = "hash-marks"
+version = "0.1.0"
+description = "Hash Marks — FBS college football match centre. Catalogue first; close as baseline."
+requires-python = ">=3.10"
+readme = "README.md"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["scripts/tests"]
+addopts = "-q"
